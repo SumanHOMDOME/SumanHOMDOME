@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman2662021&label=Profile%20views&color=0e75b6&style=flat" alt="suman2662021" /> </p>
 
+- 💬 Ask me about **MERN, C, Python**
+
+- 📫 How to reach me **sumanbale1110@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/suman6122021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suman6122021" height="30" width="40" /></a>
