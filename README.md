@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman2662021&label=Profile%20views&color=0e75b6&style=flat" alt="suman2662021" /> </p>
 
-- 💬 Ask me about **MERN, C, Python**
+- 💬 Ask me about **MERN, C, Python, Java, Django, Flask**
 
-- 📫 How to reach me **sumanbale1110@gmail.com**
+- 📫 How to reach me **suman@homdom.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
